@@ -1,0 +1,17 @@
+/bin/
+/dist/
+*.exe
+*.out
+.idea/
+Thumbs.db
+Desktop.ini
+qactl.yaml
+.env
+.env.*
+test-results/
+coverage/
+reports/
+allure-results/
+allure-report/
+*.log
+logs/

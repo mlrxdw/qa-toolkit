@@ -1,0 +1,8 @@
+project:
+  name: example
+
+tests:
+  results: ./test-results
+
+quality_gates:
+  min_pass_rate: 98
